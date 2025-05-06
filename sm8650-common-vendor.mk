@@ -700,7 +700,6 @@ PRODUCT_PACKAGES += \
     lib_bt_aptx \
     lib_bt_ble \
     lib_bt_bundle \
-    libaacvibrator \
     libadaptlaunch \
     libadm \
     libadreno_app_profiles \
