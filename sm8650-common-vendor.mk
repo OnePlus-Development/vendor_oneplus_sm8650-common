@@ -299,7 +299,14 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8650-common/proprietary/vendor/etc/lm/sPLHFeature.xml:$(TARGET_COPY_OUT_VENDOR)/etc/lm/sPLHFeature.xml \
     vendor/oneplus/sm8650-common/proprietary/vendor/etc/lowi.conf:$(TARGET_COPY_OUT_VENDOR)/etc/lowi.conf \
     vendor/oneplus/sm8650-common/proprietary/vendor/etc/ltm_config_AA545_P_3_A0005_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_AA545_P_3_A0005_dsc_cmd_mode_panel.xml \
+    vendor/oneplus/sm8650-common/proprietary/vendor/etc/ltm_config_AA553_P_7_A0001_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_AA553_P_7_A0001_dsc_cmd_mode_panel.xml \
+    vendor/oneplus/sm8650-common/proprietary/vendor/etc/ltm_config_AA567_P_3_A0004_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_AA567_P_3_A0004_dsc_cmd_mode_panel.xml \
+    vendor/oneplus/sm8650-common/proprietary/vendor/etc/ltm_config_AA577_P_3_A0020_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_AA577_P_3_A0020_dsc_cmd_mode_panel.xml \
+    vendor/oneplus/sm8650-common/proprietary/vendor/etc/ltm_config_AA584_P_7_A0001_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_AA584_P_7_A0001_dsc_cmd_mode_panel.xml \
     vendor/oneplus/sm8650-common/proprietary/vendor/etc/ltm_config_AC090_P_3_A0005_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_AC090_P_3_A0005_dsc_cmd_mode_panel.xml \
+    vendor/oneplus/sm8650-common/proprietary/vendor/etc/ltm_config_P_3_AB714_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_P_3_AB714_dsc_cmd_mode_panel.xml \
+    vendor/oneplus/sm8650-common/proprietary/vendor/etc/ltm_config_P_3_AB781_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_P_3_AB781_dsc_cmd_mode_panel.xml \
+    vendor/oneplus/sm8650-common/proprietary/vendor/etc/ltm_config_P_7_AB715_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_P_7_AB715_dsc_cmd_mode_panel.xml \
     vendor/oneplus/sm8650-common/proprietary/vendor/etc/ltm_config_enzo_boe_ili7838e_1264_2780_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_enzo_boe_ili7838e_1264_2780_dsc_cmd_mode_panel.xml \
     vendor/oneplus/sm8650-common/proprietary/vendor/etc/ltm_config_enzo_boe_ili7838e_1264_2780_evt_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_enzo_boe_ili7838e_1264_2780_evt_dsc_cmd_mode_panel.xml \
     vendor/oneplus/sm8650-common/proprietary/vendor/etc/ltm_config_enzo_boe_ili7838e_1264_2780_high_pre_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_enzo_boe_ili7838e_1264_2780_high_pre_dsc_cmd_mode_panel.xml \
