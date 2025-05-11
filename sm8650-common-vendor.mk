@@ -861,6 +861,7 @@ PRODUCT_PACKAGES += \
     libmmosal_vendor \
     libmmrtpdecoder_vendor \
     libmmrtpencoder_vendor \
+    libnanopb \
     libnative-api \
     libnicm \
     libnicm_dsi \
@@ -888,6 +889,7 @@ PRODUCT_PACKAGES += \
     libnsptransaction \
     liboffscreenpoweroptfeature \
     libops \
+    libos \
     libpal_net_if \
     libpasrutils \
     libpdmapper \
@@ -1059,6 +1061,7 @@ PRODUCT_PACKAGES += \
     libsxrservice \
     libsxrservice_client.qti \
     libsynergy_loc_api \
+    libsynx \
     libsys_info_cache \
     libsysmon_cdsp_skel \
     libsystem_health_mon \
@@ -1066,6 +1069,7 @@ PRODUCT_PACKAGES += \
     libtensorflowlite_c \
     libtestutils \
     libthermalclient \
+    libthreadutils \
     libtime_genoff \
     libtinyxml2_1 \
     libtlpd \
@@ -1441,6 +1445,7 @@ PRODUCT_PACKAGES += \
     android.hardware.secure_element-V1-ndk_odm \
     lib-virtual-modem-protos \
     libAIEngine \
+    libGaiaClient_vnd \
     libQnnCpu \
     libQnnGpu \
     libQnnHtp \
@@ -1449,6 +1454,7 @@ PRODUCT_PACKAGES += \
     libQnnHtpV75Stub \
     libQnnSaver \
     libQnnSystem \
+    libSNPE \
     libaiboost \
     libaiboost_qnn_external_delegate \
     libaiboost_qnn_external_delegate_te \
@@ -1457,10 +1463,12 @@ PRODUCT_PACKAGES += \
     libaiboost_te \
     libaiboost_ubwc \
     libams \
+    libapsjpeg \
     libapsultrahdr \
-    libarc.fusion \
     libarc.ion \
     libarcsoft_ai_moon \
+    libarcsoft_qnnhtp \
+    libc++_shared \
     libclstc_fod_color \
     libcommcenterfw \
     libcommcenterutils \
@@ -1479,6 +1487,7 @@ PRODUCT_PACKAGES += \
     libhta_hexagon_runtime_snpe \
     libmindroid-app \
     libmindroid-framework \
+    libmpbase \
     libolc_vnd \
     liboplus-uah-client \
     liboplus_service \
